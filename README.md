@@ -1,23 +1,7 @@
 # honours-project
-
+The Code for my honours project: "An Evaluation of Vue.js Against Nielsen's 10 Usability Heuristics"
 ## Project setup
 ```
-See Appendix 8 of Honours Project
+See Appendix 8 of Honours Project Report
 ```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
 
