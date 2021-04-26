@@ -7,7 +7,7 @@ See Appendix 8 of Honours Project Report
 
 ## Administrator Work Instructions
 ```
-The administrator work instructions for this project can be fount here [[https://github.com/AdamBlunn/BookRetreatHelpDocs]]
+The administrator work instructions for this project can be fount [here](https://github.com/AdamBlunn/BookRetreatHelpDocs)
 ```
 ## Dependancies 
 ```
